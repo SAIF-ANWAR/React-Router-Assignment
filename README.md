@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# TRAVEL BANGLADESH WEBSITE
+
+Website Link [Here]()
+
+All about this website:
+    1. In the home  page I have shown some introductory information
+    2. I have made navigation bar consisting 4 routes
+    3. At the review section, all the travellers reviews are there
+    4. In the Dashboard, there  are two charts given based on business data.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
