@@ -1,9 +1,10 @@
 import React from 'react';
 
 const Dashboard = () => {
+
     return (
         <div>
-            <h1>Dash Board</h1>
+            <h1>length: </h1>
         </div>
     );
 };
