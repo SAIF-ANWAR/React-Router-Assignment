@@ -3,7 +3,7 @@ import React from 'react';
 const HomePage = ({ product }) => {
     const { name, img, rating, location, description } = product;
     return (
-        <div>
+        <div className='border rounded-lg shadow-lg p-2'>
             <div>
                 <img src={img} alt="" />
                 <h1 className='text-center font-bold'>Location: {location}</h1>
